@@ -28,7 +28,7 @@ Hello! I'm **Zaeem Uddin**, a passionate designer and developer from **Pakistan*
 
 ### 🌐 Let's Connect
 
-- **Email:** [zaeem.uddin@example.com](mailto:zaeem.uddin@example.com)
+- **Email:** [zaeem.uddin@example.com](mailto:zaeemuddinwork@gmail.com)
 - **LinkedIn:** [linkedin.com/in/zaeemuddin](https://linkedin.com/in/zaeemuddin)
 - **Portfolio:** [weboratech.com](https://weboratech.com)
 
