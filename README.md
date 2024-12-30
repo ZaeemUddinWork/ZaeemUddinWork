@@ -46,15 +46,9 @@ Hello! I'm **Zaeem Uddin**, a passionate designer and developer from **Pakistan*
 - **T-Shirt Design Portfolio**: A creative collection of minimalistic kids' t-shirt designs.
 - **WeboraTech Dashboard**: A modern, responsive dashboard using Next.js and TypeScript.
 
-#### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaeemuddin&theme=radical)
-
-#### 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=zaeemuddin&theme=radical)
-
 ---
 
-### 🌟 Dynamic Badges
+### 🌟 Technologies I Love
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -68,13 +62,3 @@ Hello! I'm **Zaeem Uddin**, a passionate designer and developer from **Pakistan*
 ### 💡 Fun Fact
 
 I aim to move to **Japan** and build a life that merges technology, creativity, and financial expertise!
-
----
-
-### 🎥 Animated Widgets
-
-#### 👨‍💻 Coding Activity
-![Coding Activity](https://github-readme-activity-graph.cyclic.app/graph?username=zaeemuddin&bg_color=000000&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
-
-#### 🕰️ Latest Commits
-![Commits](https://github-readme-stats.vercel.app/api?username=zaeemuddin&show_icons=true&count_private=true&theme=radical&hide_rank=false)
